@@ -1,0 +1,6 @@
+{
+	"appId": "com.PatAPizza56.Counter",
+	"appName": "Counter",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
